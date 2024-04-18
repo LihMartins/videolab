@@ -75,11 +75,11 @@ The application has been manually tested to ensure all features work as expected
 
 The application was deployed on Heroku using the following steps:
 
-1. **Commit the code to Git**: Ensure all code is added and committed to Git.
-2. **Create a new app on Heroku**: Log in to Heroku, go to the dashboard, and create a new app.
-3. **Connect the Heroku app to the GitHub repository**: In the app settings on Heroku, under the "Deploy" tab, connect the app to the corresponding GitHub repository.
-4. **Deploy the app**: Still under the "Deploy" tab on Heroku, scroll down to "Manual Deploy", select the master branch, then click "Deploy Branch".
-5. **Open the app**: Once deployment is complete, click on "Open app" at the top right of the Heroku dashboard to open the deployed application.
+1. **Commit the code to Git**: Ensured all code is added and committed to Git.
+2. **Create a new app on Heroku**: Log in to Heroku, go to the dashboard, and created a new app.
+3. **Connect the Heroku app to the GitHub repository**: In the app settings on Heroku, under the "Deploy" tab, connected the app to the corresponding GitHub repository.
+4. **Deploy the app**: Still under the "Deploy" tab on Heroku, scrolled down to "Manual Deploy", select the main branch, then clicked "Deploy Branch".
+5. **Open the app**: Once deployment was completed, clicked on "Open app" at the top right of the Heroku dashboard to open the deployed application.
 
 ## INTERFACE
 
