@@ -83,13 +83,28 @@ The application was deployed on Heroku using the following steps:
 
 ## INTERFACE
 
+**Video Library System**
 ![Video Library System](./images/runningwindow.PNG)
+
+**Do you Want to Add Message**
 ![Do you Want to Add Message](./images/doyouwantadd.PNG)
+
+**New Record Added Message**
 ![New Record Added Message](./images/newrecordsucc.PNG)
+
+**Delete Full Inventory Message**
 ![Delete Full Inventory Message](./images/deletefullinventorymess.PNG)
+
+**Delete Successful Message**
 ![Delete Successful Message](./images/deletingrecordmsg.PNG)
+
+**Change Availability - Issuer ID Message**
 ![Change Availability - Issuer ID Message](./images/changeavail_enterissuer.PNG)
+
+**To View Record Must Select Message**
 ![To View Record Must Select Message](./images/toviewrecord.PNG)
+
+**Updating Record Message**
 ![Updating Record Message](./images/updatingrecord.PNG)
 
 ## Credits
